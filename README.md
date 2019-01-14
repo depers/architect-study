@@ -13,7 +13,9 @@
 
 ## 后端
 我在这里会给大家一份教程[带你从0到上线开发企业级电商项目](https://coding.imooc.com/class/96.html)，该项目是一个纯Java后端项目，没有前端。大家可以通过这个视频入门Java Web开发。对这个项目几点须知：
-* 百度云下载地址：链接：https://pan.baidu.com/s/17frjMSmF4vQiZbhDfmWd-Q 密码：txdf
+* 百度云下载地址：链接：https://pan.baidu.com/s/1yliNF-vnV-IoyixhuIG-sQ 
+提取码：kuvf 
+复制这段内容后打开百度网盘手机App，操作更方便哦
 * 知识储备：Java基础，MySQL基础。
 * 开发工具：强烈建议使用[IEDA](https://www.jetbrains.com/idea/)。
 * 项目开发周期：希望大家能够在**暑假结束**后将这个项目部署上线，推荐使用阿里云服务器。
@@ -30,7 +32,9 @@
 
 ## 该项目的前端
 慕课网为该项目开设了配套的前端项目课程[从0开发前后端分离的企业级上线项目   ](https://coding.imooc.com/class/109.html)，学有余力的各位可以学习一下。
-百度云下载地址：链接：https://pan.baidu.com/s/1oQ19aGGmPeje-P75au12tw 密码：c3ph
+百度云下载地址：链接：https://pan.baidu.com/s/13BZmHAtNaMGphC4wITzR-Q 
+提取码：3ue8 
+复制这段内容后打开百度网盘手机App，操作更方便哦
 ## 推荐几个优秀的开源项目
 * [xingshaocheng/architect-awesome](https://github.com/xingshaocheng/architect-awesome)
 * [CyC2018/Interview-Notebook](https://github.com/CyC2018/Interview-Notebook)
