@@ -31,7 +31,7 @@
 5.MySQL学习推荐慕课网[与MySQL的零距离接触](https://www.imooc.com/learn/122)。  
 
 ## 该项目的前端
-慕课网为该项目开设了配套的前端项目课程[从0开发前后端分离的企业级上线项目   ](https://coding.imooc.com/class/109.html)，学有余力的各位可以学习一下。
+慕课网为该项目开设了配套的前端项目课程[从0开发前后端分离的企业级上线项目   ](https://coding.imooc.com/class/109.html)，学有余力的各位可以学习一下。     
 百度云下载地址：链接：https://pan.baidu.com/s/13BZmHAtNaMGphC4wITzR-Q 
 提取码：3ue8 
 复制这段内容后打开百度网盘手机App，操作更方便哦
@@ -39,5 +39,3 @@
 * [xingshaocheng/architect-awesome](https://github.com/xingshaocheng/architect-awesome)
 * [CyC2018/Interview-Notebook](https://github.com/CyC2018/Interview-Notebook)
 * 大家可以关注我的Github，虽然好久没有维护了 [depers](https://github.com/depers) -_-!
-
-# 希望大家积极提交代码，我会看各位代码的。最后祝愿各位好好学习，不负青春！
